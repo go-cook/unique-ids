@@ -1,4 +1,4 @@
-package mist
+package snoflake
 
 import (
 	"errors"
